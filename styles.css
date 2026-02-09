@@ -1,4 +1,4 @@
-body {
+body (
             font-family: Arial, sans-serif;
             margin: 20px;
             background-color: yellow;
@@ -25,5 +25,6 @@ body {
         a:hover {
             text-decoration: underline;
         }
+)
 
 
