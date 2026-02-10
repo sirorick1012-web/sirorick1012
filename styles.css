@@ -1,6 +1,7 @@
+
 body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 20  px;
             background-color: yellow;
         }
         h1 {
@@ -22,6 +23,7 @@ body {
 		ul {
             color: blue;
         }
-        a:hover {
+        a: hover {
             text-decoration: underline;
         }
+
