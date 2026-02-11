@@ -1,7 +1,7 @@
 
 body {
             font-family: Arial, sans-serif;
-            margin: 20  px;
+            margin: 20 px;
             background-color: yellow;
         }
         h1 {
@@ -26,4 +26,5 @@ body {
         a: hover {
             text-decoration: underline;
         }
+
 
